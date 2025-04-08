@@ -45,4 +45,4 @@ Neste cenário não temos escalabilidade.
 [Modelo-ER](DOCS/modelo-er.md)
 
 ## Git
-postech-java-tc1-restaurant-buyer
+https://github.com/jorgepontilho/postech-java-tc1-restaurant-buyer
